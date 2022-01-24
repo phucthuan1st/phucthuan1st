@@ -11,10 +11,10 @@
 * 🌎Goal: My dream is become a software/network engineer.
 
 ## Connect with me 📞
-[<img src="https://github.com/phucthuan1st/icon/blob/main/github.png" alt="GitHub" width="22px" align="left"/>][GitHub]
-[<img src="https://github.com/phucthuan1st/icon/blob/main/instagram.png" alt="Instagram" width="22px" align="left"/>][Instagram]
-[<img src="https://github.com/phucthuan1st/icon/blob/main/mail.png" alt="Email" width="22px" align="left"/>][Email]
-[<img src="https://github.com/phucthuan1st/icon/blob/main/linkedIn.png" alt="LinkedIn" width="22px" align="left"/>][LinkedIn]
+[<img src="https://github.com/phucthuan1st/icon/blob/main/github.png" alt="GitHub" width="30px" align="left"/>][GitHub]
+[<img src="https://github.com/phucthuan1st/icon/blob/main/instagram.png" alt="Instagram" width="30px" align="left"/>][Instagram]
+[<img src="https://github.com/phucthuan1st/icon/blob/main/mail.png" alt="Email" width="30px" align="left"/>][Email]
+[<img src="https://github.com/phucthuan1st/icon/blob/main/linkedIn.png" alt="LinkedIn" width="30px" align="left"/>][LinkedIn]
 
 <br />
 
