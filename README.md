@@ -1,6 +1,6 @@
 ## Hello guys, my name is **Phuc Thuan** ✨✨
 
-# Welcome to my Github 🎪
+# Welcome to my GitHub 🎪
 
 ## I'm a student and a freelancer 👨‍🎓
 * 🏫I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
