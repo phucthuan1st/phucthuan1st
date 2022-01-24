@@ -16,7 +16,6 @@
 [<img src="https://github.com/phucthuan1st/icon/blob/main/mail.png" alt="Email" width="22px" align="left"/>][Email]
 [<img src="https://github.com/phucthuan1st/icon/blob/main/linkedIn.png" alt="LinkedIn" width="22px" align="left"/>][LinkedIn]
 
-<br />
 
 ### Languages and Tools:
 
@@ -32,9 +31,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
 
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucthuan1st)](https://github.com/anuraghazra/github-readme-stats)
