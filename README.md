@@ -6,7 +6,7 @@
 * 🏫I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
 * 🛣I currently work as a freelancer.
 * 🌱I wanna get a fresher job ASAP.
-* 🎉I'm lookong for graphic designer and content write to collaborate with some of my project.
+* 🎉I'm lookong for graphic designers and content writers to collaborate with some of my project.
 * 🎮Fact: I love playing game and find their bugs lol xD.
 * 🌎Goal: My dream is become a software/network engineer.
 
