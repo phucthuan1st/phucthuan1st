@@ -43,7 +43,7 @@
 
 [GitHub]: https://github.com/phucthuan1st
 [Instagram]: https://www.instagram.com/_phuc_thuan_
-[Email]: phucthuan.work@gmail.com
+[Email]: <mailto: phucthuan.work@gmail.com>
 [LinkedIn]: https://www.linkedin.com/in/phuc-thuan-it/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
