@@ -43,7 +43,7 @@
 ---
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucthuan1st)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucthuan1st&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [GitHub]: https://github.com/phucthuan1st
 [Instagram]: https://www.instagram.com/_phuc_thuan_
