@@ -2,7 +2,7 @@
 
 # Welcome to my Github 🎪
 
-## I'm a student and a freelancer
+## I'm a student and a freelancer 👨‍🎓
 * 🏫I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
 * 🛣I currently work as a freelancer.
 * 🌱I wanna get a fresher job ASAP.
@@ -39,7 +39,22 @@
 ---
 
 ## Statistics ℹ
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucthuan1st&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucthuan1st&&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Usage Languages 👨‍💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucthuan1st&&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top 10 repositorys 🔟
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Socket_TraCuuTienTe&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=simpleRPGGame-OOP&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DSA_BST-AVL-Graph&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DSA_SortingAlgorithms&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=car-racing-bet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DataStructureAlgorithmsBook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=LZW_Compression&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=QueueNumberGame&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Course-Registration-System&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Caro&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [GitHub]: https://github.com/phucthuan1st
 [Instagram]: https://www.instagram.com/_phuc_thuan_
