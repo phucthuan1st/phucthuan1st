@@ -3,7 +3,7 @@
 # Welcome to my Github 🎪
 
 ## I'm a student and a freelancer
-* 🏫I currently study in Ho Chi Minh City University of Sciece (HCMUS).
+* 🏫I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
 * 🛣I currently work as a freelancer.
 * 🌱I wanna get a fresher job ASAP.
 * 🎉I'm lookong for graphic designer and content write to collaborate with some of my project.
