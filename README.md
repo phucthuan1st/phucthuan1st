@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub 🎪
 
-## I'm a student and a freelancer 👨‍🎓
+## I'm a student and a intern in RTA 👨‍🎓
 * 🏫I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
 * 🛣I currently work as a interner in .
 * 🌱I wanna get a fresher job ASAP.
