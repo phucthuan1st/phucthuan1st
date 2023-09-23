@@ -32,21 +32,21 @@
 
 ---
 
-## Statistics ℹ
+## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phucthuan1st&&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Usage Languages 👨‍💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phucthuan1st&&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top 10 repositorys 🔟
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DataStructureAlgorithmsBook&theme=tokyonight)](https://github.com/phucthuan1st/DataStructureAlgorithmsBook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=gRPC-ChatRoom&theme=tokyonight)](https://github.com/phucthuan1st/gRPC-ChatRoom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=WifiEncryptionSimulation&theme=tokyonight)](https://github.com/phucthuan1st/WifiEncryptionSimulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=CompanyDatabaseManagement&theme=tokyonight)](https://github.com/phucthuan1st/CompanyDatabaseManagement)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=LZW_Compression&theme=tokyonight)](https://github.com/phucthuan1st/LZW_Compression)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=QueueNumberGame&theme=radical)](https://github.com/phucthuan1st/QueueNumberGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Course-Registration-System&theme=radical)](https://github.com/phucthuan1st/Course-Registration-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Caro&theme=tokyonight)](https://github.com/phucthuan1st/Caro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=Socket_TraCuuTienTe&theme=radical)](https://github.com/phucthuan1st/Socket_TraCuuTienTe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=simpleRPGGame-OOP&theme=tokyonight)](https://github.com/phucthuan1st/simpleRPGGame-OOP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DSA_BST-AVL-Graph&theme=tokyonight)](https://github.com/phucthuan1st/DSA_BST-AVL-Graph)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=DSA_SortingAlgorithms&theme=radical)](https://github.com/phucthuan1st/DSA_SortingAlgorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=phucthuan1st&repo=car-racing-bet&theme=radical)](https://github.com/phucthuan1st/car-racing-bet)
 
