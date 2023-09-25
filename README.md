@@ -4,7 +4,7 @@
 
 ## I'm a student 👨‍🎓
 * 🏫 I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
-* 🛣 I currently work as an interner in Viettel Cyber Security.
+* 🛣 I currently work as an intern in Viettel Cyber Security.
 * 🌱 I wanna get a fresher job ASAP.
 * 🎉 I'm looking for graphic designers and content writers to collaborate with some of my project.
 * 🎮 Fact: I love playing game and finding their bugs lol xD.
