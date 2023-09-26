@@ -3,12 +3,12 @@
 # Welcome to my GitHub 🎪
 
 ## I'm a student 👨‍🎓
-* 🏫 I currently study in Ho Chi Minh City University of Science (VNU - HCMUS).
-* 🛣 I currently work as an intern in Viettel Cyber Security.
-* 🌱 I wanna get a fresher job ASAP.
-* 🎉 I'm looking for graphic designers and content writers to collaborate with some of my project.
-* 🎮 Fact: I love playing game and finding their bugs lol xD.
-* 🌎 Goal: My dream is become a security/network engineer/pentester/red teamer.
+- 🏫 I am currently enrolled at Ho Chi Minh City University of Science (VNU - HCMUS).
+- 🛣 I am presently interning at Viettel Cyber Security.
+- 🌱 I am eager to secure a junior position as soon as possible.
+- 🎉 I am seeking graphic designers and content writers for potential collaboration on my projects.
+- 🎮 Fun Fact: I thoroughly enjoy gaming and hunting for bugs within them, LOL! 😄
+- 🌎 Aspirations: My ultimate goal is to become a security/network engineer, pentester, or red teamer.
 
 ## Connect with me 📞
 [<img src="https://github.com/phucthuan1st/icon/blob/main/github.png" alt="GitHub" width="30px" align="left"/>][GitHub]
